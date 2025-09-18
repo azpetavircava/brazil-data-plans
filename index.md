@@ -73,3 +73,10 @@ layout: default
 　　巴西的套餐花样繁多，充满“巴西特色”的营销术语，购买时一定要问清楚：“Isso inclui internet?”（这包含流量吗？）以及“Qual a validade?”（有效期多久？）。
 
 　　总之，搞定一张巴西流量卡，就像是拿到了探索这个热情国度的钥匙。它帮你导航、翻译、分享快乐，让你虽远在重洋之外，却从未与世界失联。祝你旅途顺畅，网络满格！
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Brazil SIM 卡购买与激活指南](https://faciylike.github.io/brazil-sim-guides)
